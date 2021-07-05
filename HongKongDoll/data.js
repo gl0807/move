@@ -1,4 +1,4 @@
-var ret= {
+ret({
             "一日女友的漂亮姐姐": "https://cdn.jsdelivr.net/gh/KeKangShui/move/HongKongDoll80/HongKongDoll80.m3u8",
             "一日女友的漂亮姐姐 中篇——上部": "https://cdn.jsdelivr.net/gh/KeKangShui/move/hongkongdoll1/hongkongdoll1.m3u8",
             "一日女友的漂亮姐姐 中篇——下部": "https://cdn.jsdelivr.net/gh/KeKangShui/move/hongkongdoll2/hongkongdoll2.m3u8",
@@ -12,4 +12,4 @@ var ret= {
             "青蛇": "https://cdn.jsdelivr.net/gh/KeKangShui/move/HongKongDoll/greenshe/snake.m3u8",
             "精油按摩": "https://cdn.jsdelivr.net/gh/niucnet/move/20210625/20210625-2/20210625-2.m3u8",
             "姐姐的梦境 番外篇": "https://cdn.jsdelivr.net/gh/niucnet/move/20210617-5/20210617-5.m3u8",
-        }
+        }) 
